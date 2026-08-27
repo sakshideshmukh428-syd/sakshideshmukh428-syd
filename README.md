@@ -10,7 +10,7 @@
 - 🎓 2nd Year IT Student at **RCPIT**
 - 🛠️ Completed **HTML**, currently learning **CSS**
 - 🚀 Next up: JavaScript, then real projects
-- 📫 Reach me at: *your-email-here*
+- 📫 Reach me at: sakshideshmukh428@gmail.com
 
 ### 📊 Current Skill Progress
 <p align="center">
